@@ -1,0 +1,32 @@
+# TP7 DEV : Websockets et databases
+
+## I. Websockets
+
+### 1. First steps
+
+🌞 [WS I 1 SERVER](./ws/ws_i_1_server.py)
+
+🌞 [WS I 1 CLIENT](./ws/ws_i_1_client.py)
+
+### 2. Client JS
+
+🌞 [WS I 2 CLIENT](./ws/ws_i_2_client.py)
+
+
+### 3. Chatroom magueule
+
+
+🌞 [WS I 3 SERVER](./ws/ws_i_3_server.py)
+
+🌞 [WS I 3 CLIENT](./ws/ws_i_3_client.py)
+
+
+## II. Base de données
+
+🌞 [WS II 2 SERVER](./ws/ws_ii_2_server.py)
+
+### 3. Bonus : MongoDB
+
+🌞 **`ws_ii_3_server.py`**
+
+
